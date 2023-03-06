@@ -216,3 +216,5 @@
 2023-03-06 10:40:14,535 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
 2023-03-06 10:40:14,538 [Worker-21: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jathumma\OneDrive - Capgemini\Desktop\Task Manager\Backend\src\test\resources
 2023-03-06 10:54:12,090 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 1 resource
+2023-03-06 10:54:12,097 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - Copying 0 resource
+2023-03-06 10:54:12,098 [Worker-25: Building] INFO  o.a.m.s.f.DefaultMavenResourcesFiltering - skip non existing resourceDirectory C:\Users\jathumma\OneDrive - Capgemini\Desktop\Task Manager\Backend\src\test\resources
